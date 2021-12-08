@@ -1,4 +1,4 @@
-# Causal Imitative Models for Autonomous Driving
+# Causal Imitative Model for Autonomous Driving
 
 This repo provides implementations of our work. All code is written in Python 3, using PyTorch, NumPy, and CARLA.
 
