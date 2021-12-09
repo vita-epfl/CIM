@@ -40,3 +40,6 @@ If you find this code useful, please cite:
    primaryClass={cs.RO}
 }
 ```
+
+## Acknowledgements
+This project is built on [OATomobile](https://github.com/OATML/oatomobile), a framework for autonomous driving research which wraps CARLA in OpenAI gym environments.
