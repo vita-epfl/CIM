@@ -9,7 +9,7 @@
 
 This repo provides implementations of our work. All code is written in Python 3, using PyTorch, NumPy, and CARLA.
 
-The project is built on [OATomobile](https://github.com/OATML/oatomobile), a research framework for autonomous driving. The main part of our contribution is gathered in ```oatomobile\baselines\torch\cim```.
+The project is built on [OATomobile](https://github.com/OATML/oatomobile), a framework for autonomous driving research which wraps CARLA in OpenAI gym environments. The main part of our contribution is gathered in ```oatomobile\baselines\torch\cim```.
 
 ## Installation
 To install requirements, refer to [OATomobile](https://github.com/OATML/oatomobile) github repo.
@@ -47,6 +47,3 @@ If you find this code useful, please cite:
    primaryClass={cs.RO}
 }
 ```
-
-## Acknowledgements
-This project is built on [OATomobile](https://github.com/OATML/oatomobile), a framework for autonomous driving research which wraps CARLA in OpenAI gym environments.
