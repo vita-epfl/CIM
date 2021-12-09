@@ -26,3 +26,16 @@ To perform the model on a task:
 ```
 python -m test --task=task --model_dir=model_dir --predictor_dir=predictor_dir --output_dir=output_dir --alpha=alpha --gamma=gamma
 ```
+
+## Bibtex
+If you find this code useful, please cite:
+
+```
+@misc{lexa2021,
+    title={Discovering and Achieving Goals via World Models},
+    author={Mendonca, Russell and Rybkin, Oleh and
+    Daniilidis, Kostas and Hafner, Danijar and Pathak, Deepak},
+    year={2021},
+    Booktitle={NeurIPS}
+}
+```
