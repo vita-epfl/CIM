@@ -2,8 +2,8 @@
 
 ---
 
->  Mohammad Reza Samsami, Mohammadhossein Bahari, Saber Salehkaleybar, Alexandre Alahi,  arXiv 2021 <br /> 
->  __[Project Website](https://mrsamsami.github.io/causal-imitation/)__  &nbsp; &nbsp; &nbsp; __[Paper](https://arxiv.org/abs/2112.03908)__
+>  Mohammad Reza Samsami, Mohammadhossein Bahari, Saber Salehkaleybar, Alexandre Alahi.  arXiv 2021. <br /> 
+>  __[[Project Website]](https://mrsamsami.github.io/causal-imitation/)__  &nbsp; &nbsp; &nbsp; __[[Paper]](https://arxiv.org/abs/2112.03908)__
 
 ---
 
