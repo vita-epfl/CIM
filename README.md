@@ -27,15 +27,16 @@ To perform the model on a task:
 python -m test --task=task --model_dir=model_dir --predictor_dir=predictor_dir --output_dir=output_dir --alpha=alpha --gamma=gamma
 ```
 
-## Bibtex
+## BibTeX
 If you find this code useful, please cite:
 
 ```
-@misc{lexa2021,
-    title={Discovering and Achieving Goals via World Models},
-    author={Mendonca, Russell and Rybkin, Oleh and
-    Daniilidis, Kostas and Hafner, Danijar and Pathak, Deepak},
-    year={2021},
-    Booktitle={NeurIPS}
+@misc{samsami2021causal,
+   title={Causal Imitative Model for Autonomous Driving}, 
+   author={Mohammad Reza Samsami and Mohammadhossein Bahari and Saber Salehkaleybar and Alexandre Alahi},
+   year={2021},
+   eprint={2112.03908},
+   archivePrefix={arXiv},
+   primaryClass={cs.RO}
 }
 ```
