@@ -1,5 +1,12 @@
 # Causal Imitative Model for Autonomous Driving
 
+---
+
+>  Mohammad Reza Samsami, Mohammadhossein Bahari, Saber Salehkaleybar, Alexandre Alahi,  arXiv 2021 <br /> 
+>  __[Project Website](https://mrsamsami.github.io/causal-imitation/)__  &nbsp; &nbsp; &nbsp; __[Paper](https://arxiv.org/abs/2112.03908)__
+
+---
+
 This repo provides implementations of our work. All code is written in Python 3, using PyTorch, NumPy, and CARLA.
 
 The project is built on [OATomobile](https://github.com/OATML/oatomobile), a research framework for autonomous driving. The main part of our contribution is gathered in ```oatomobile\baselines\torch\cim```.
