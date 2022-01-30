@@ -5,7 +5,7 @@ Soon we will make available checkpoints for each of the baselines too.
 
 Agent                                 | Paper                    | Code
 --------------------------------------| :----------------------: | :--:
-Causal Imitative Model (CIM)          | [Samsami et al., 2021]   | [![torch](../../assets/logos/torch.png)][RIP]
+Causal Imitative Model (CIM)          | [Samsami et al., 2021]   | [![torch](../../assets/logos/torch.png)][CIM]
 Robust Imitative Planning (RIP)       | [Filos et al., 2020]     | [![torch](../../assets/logos/torch.png)][RIP]
 Deep Imitative Model (DIM)            | [Rhinehart et al., 2018] | [![torch](../../assets/logos/torch.png)][DIM]
 Conditional Imitation Learning (CIL)  | [Codevilla et al., 2017] | [![torch](../../assets/logos/torch.png)][CIL]
